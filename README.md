@@ -1,4 +1,7 @@
+<img src="https://user-images.githubusercontent.com/63267601/152588536-11031e98-11fd-478a-bbae-4c098d82c322.gif" width="100%"/>
+
 # <img src="https://github.com/ayoubft/ayoubft/blob/main/Hi.gif" width="30px"> Hi there 🤗!
+
 
 ### ![image](https://user-images.githubusercontent.com/63267601/152228773-a1abf785-c984-447b-a6ab-605cee77dc05.png)
 
