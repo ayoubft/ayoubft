@@ -2,8 +2,8 @@
 
 # <img src="https://github.com/ayoubft/ayoubft/blob/main/Hi.gif" width="30px"> Hi there 🤗!
 
+### Interests:
 
-### ![image](https://user-images.githubusercontent.com/63267601/152228773-a1abf785-c984-447b-a6ab-605cee77dc05.png) Interests:
 * ML
 * New techonologies
 * Spatial information
