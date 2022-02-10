@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/ayoubft/ayoubft/blob/main/Hi.gif" width="30px"> Hi there 🤗!
 
-### Interests:
+### My interests:
 
 * ML
 * New techonologies
