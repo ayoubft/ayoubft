@@ -4,12 +4,11 @@
 
 ### My interests:
 
-* ML
-* New techonologies
-* Spatial information
-* 3D
-* Point Cloud
-
+* **ML**
+* **New techonologies**
+* **Spatial information**
+* **3D**
+* **Point Cloud**
 
 ### Technologies I'am learning and using:
 
