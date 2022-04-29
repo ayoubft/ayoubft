@@ -6,7 +6,7 @@
 
 * **ML**
 * **New techonologies**
-* **Spatial information**
+* **Geo-Spatial Data**
 * **3D**
 * **Point Cloud**
 
