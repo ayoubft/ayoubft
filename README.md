@@ -3,4 +3,4 @@
 <!-- <img src="https://github.com/ayoubft/ayoubft/blob/main/Hi.gif" width="3px">  -->
 # Hi there 🤗! WELCOME !
 
-More on my [website](https://ayoubft.github.io/)!
+More on my <a href="https://ayoubft.github.io/" target="_blank">website</a>!
