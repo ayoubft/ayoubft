@@ -1,8 +1,8 @@
 
 <p>
 <pre align="center">
-<strong>...: Ayoub Fatihi :...</strong> 
-  ---
+<strong>𝔸𝕪𝕠𝕦𝕓 𝔽𝕒𝕥𝕚𝕙𝕚</strong> 
+▌│█║▌║▌║▌│█║▌║▌║║▌│█║▌║▌║▌║▌│█║▌║▌║▌║█│▌
 <a href="https://twitter.com/ayoubft_"><kbd>Twitter</kbd></a> | <a href="https://www.linkedin.com/in/ayoub-fatihi/"><kbd>LinkedIn</kbd></a> | <a href="https://github.com/ayoubft"><kbd>GitHub</kbd></a> | <a href="https://gist.github.com/ayoubft"><kbd>Gist</kbd></a> 
 </pre>
 </p>
